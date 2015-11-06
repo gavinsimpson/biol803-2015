@@ -225,7 +225,7 @@ October 28 -- November 4, 2015
 
 - New journals like PLOS One, Scientific Reports
 - Lower APCs that traditional publishers
-- APC of $1350
+- APC of $1495
 - PLOS One will also waive fees if no funding source
 - Mega journals often have different review criteria; work required to only be *technically sound*
 
